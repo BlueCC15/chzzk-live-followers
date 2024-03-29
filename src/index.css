@@ -1,16 +1,16 @@
 @font-face {
-  font-family: "nanumsquareneo";
-  src: url(./NanumSquareNeo-Variable.ttf);
+  font-family: "nanumgothic";
+  src: url(https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap);
 }
 
 @font-face {
   font-family: "namumbrush";
-  src: url(./NanumBrush.ttf);
+  src: url(https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Pen+Script&display=swap);
 }
 
 body {
   margin: 0;
-  font-family: "nanumsquareneo";
+  font-family: "nanumgothic";
   --font-nanumbrush: "nanumbrush";
   /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

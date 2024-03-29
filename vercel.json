@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+        {"source": "/services/:path*", "destination": "https://api.chzzk.naver.com/services/:path*"},
+        {"source": "/services/:path*/", "destination": "https://api.chzzk.naver.com/services/:path*/"}
+    ]
+}
